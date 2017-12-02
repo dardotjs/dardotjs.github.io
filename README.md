@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+DarJS
+=====
 
-You can use the [editor on GitHub](https://github.com/darjs/darjs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A Support Group for JavaScript Developers in Dar es Salaam, TZ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* * *
 
-### Markdown
+About
+-----
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Every second friday of the month, JavaScript developers in Dar es Salaam meetup for 1 hour to talk about the three sides of JavaScript: Good, Bad and Ugly.
 
-```markdown
-Syntax highlighted code block
+Running locally
+---
 
-# Header 1
-## Header 2
-### Header 3
+TODO
 
-- Bulleted
-- List
+Code of Conduct
+---
 
-1. Numbered
-2. List
+All DarJSers are required to follow the [JSConf Code of Conduct][1]
 
-**Bold** and _Italic_ and `Code` text
+Hosts
+-----
 
-[Link](url) and ![Image](src)
-```
+All DarJS meetups are organized with lots of love and coffee by [Barnie][@makoscafee], [Mtuchi][@mtuchi], [Joshy][@joshuamabina], and [Lupy][@lupyana].
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+[1]: http://jsconf.com/codeofconduct.html
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/darjs/darjs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[@mtuchi]:       https://github.com/mtuchi
+[@lupyana]:      https://github.com/lupyana
+[@makoscafee]:   https://github.com/MAKOSCAFEE
+[@joshuamabina]: https://github.com/joshuamabina
