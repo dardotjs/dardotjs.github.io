@@ -17,7 +17,6 @@ We will be looking into:
 - The history of JavaScript
 - How we got here
 - The fast changing requirements
-- JavaScript fatigue
 
 and a little much more.
 
