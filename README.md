@@ -49,7 +49,7 @@ Hosts
 All DarJS meetups are organized with lots of love and coffee by [Barnie][@makoscafee], [Mtuchi][@mtuchi], [Joshy][@joshuamabina], and [Lupy][@lupyana].
 
 
-[1]: https://www.google.com/maps/search/?api=1&query=Ali+Hassan+Mwinyi+Rd%2C+Kijitonyama+Dar+es+Salaam%2C+Kinondoni+%2C+Dar+es+Salaam%2C+tz
+[1]: https://www.google.co.tz/maps/place/Buni+Innovation+Hub/@-6.774619,39.2390723,17z/data=!3m1!4b1!4m5!3m4!1s0x185c4c26c97df195:0xa048ed7bf4363a72!8m2!3d-6.774619!4d39.241261?hl=en
 [2]: https://docs.google.com/forms/d/e/1FAIpQLScUX8euolF-cwpig7BNdzUwSVWEc0XYCKFqE_hRvOh3jniJFw/viewform
 
 [codeofconduct]: http://jsconf.com/codeofconduct.html
