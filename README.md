@@ -53,6 +53,8 @@ About
 
 Every second friday of the month, JavaScript developers in Dar es Salaam meetup for 1 hour to talk about the three sides of JavaScript: Good, Bad and Ugly.
 
+Joining DarJS is easy - just complete this [joining form][join-darjs] and we will reach out to you. 
+
 Running locally
 ---
 
@@ -98,6 +100,7 @@ All DarJS meetups are organized with lots of love and coffee by [Barnie][@makosc
 [3]: https://docs.google.com/presentation/d/17qJsiFPWaeLk2nW4PC6wtf0qNDL0vM47NTArY9_Eos8/edit?usp=sharing
 [4]: https://goo.gl/forms/vt7O9sgOMEY32MXD3
 
+[join-darjs]: https://goo.gl/forms/wBH4Rf9AC1dNKWEF3
 [codeofconduct]: http://jsconf.com/codeofconduct.html
 
 [@mtuchi]:       https://github.com/mtuchi
