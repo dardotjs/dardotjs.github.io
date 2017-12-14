@@ -30,7 +30,7 @@ Current State of JavaScript:
 
 ### Venue 
 
-BUNI Space. See [location][1].
+BUNI Space. See [location][hello-darjs-location].
 
 ### Date & time
 
@@ -38,13 +38,13 @@ BUNI Space. See [location][1].
 
 ### Slides, notes and memos
 
-Find all slides, notes and memos [here][3].
+Find all slides, notes and memos [here][hello-darjs-notes].
 
 ### Last meetup: Mess or Not?
 
 To create a much better experience for you next time, we ask that you take a few minutes off your busy schedule to give feedback; what bored you, what can we improve, and maybe, what you want to hear discussed next time.
 
-Please find the link to the form [here][4].
+Please find the link to the form [here][hello-darjs-feedback].
 
 * * *   
 
@@ -95,10 +95,10 @@ Hosts
 All DarJS meetups are organized with lots of love and coffee by [Barnie][@makoscafee], [Mtuchi][@mtuchi], [Joshy][@joshuamabina], and [Lupy][@lupyana].
 
 
-[1]: https://www.google.co.tz/maps/place/Buni+Innovation+Hub/@-6.774619,39.2390723,17z/data=!3m1!4b1!4m5!3m4!1s0x185c4c26c97df195:0xa048ed7bf4363a72!8m2!3d-6.774619!4d39.241261?hl=en
-[2]: https://docs.google.com/forms/d/e/1FAIpQLScUX8euolF-cwpig7BNdzUwSVWEc0XYCKFqE_hRvOh3jniJFw/viewform
-[3]: https://docs.google.com/presentation/d/17qJsiFPWaeLk2nW4PC6wtf0qNDL0vM47NTArY9_Eos8/edit?usp=sharing
-[4]: https://goo.gl/forms/vt7O9sgOMEY32MXD3
+[hello-darjs-location]: https://www.google.co.tz/maps/place/Buni+Innovation+Hub/@-6.774619,39.2390723,17z/data=!3m1!4b1!4m5!3m4!1s0x185c4c26c97df195:0xa048ed7bf4363a72!8m2!3d-6.774619!4d39.241261?hl=en
+
+[hello-darjs-notes]: https://docs.google.com/presentation/d/17qJsiFPWaeLk2nW4PC6wtf0qNDL0vM47NTArY9_Eos8/edit?usp=sharing
+[hello-darjs-feedback]: https://goo.gl/forms/vt7O9sgOMEY32MXD3
 
 [join-darjs]: https://goo.gl/forms/wBH4Rf9AC1dNKWEF3
 [codeofconduct]: http://jsconf.com/codeofconduct.html
