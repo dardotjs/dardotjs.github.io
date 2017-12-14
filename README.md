@@ -6,25 +6,45 @@ based in Dar es Salaam, Tanzania.
 
 * * *  
 
-Next meetup: console.log('Hello DarJS')
+Next meetup: To be announced
 ---------------------------------------
 
-The topics we plan to cover surround a general theme:  
-**Current State of JavaScript**.
+### Date & time 
 
-We will be looking into:
+12<sup>th</sup> Jan. 2018 - From 1800 HRS to 1900 HRS.
+
+<!--Please confirm your attendance [here][2].-->
+
+* * *   
+
+Last meetup: console.log('Hello DarJS')
+---------------------------------------
+
+### Main theme
+
+Current State of JavaScript:
 
 - The history of JavaScript
 - How we got here
 - The fast changing requirements
 
-and a little much more.
+### Venue 
 
-**VENUE**: BUNI Space. See [location][1].
+BUNI Space. See [location][1].
 
-**DATE & TIME**:  8<sup>th</sup> Dec. 2017 - From 1800 HRS to 1900 HRS.
+### Date & time
 
-Please confirm your attendance [here][2].
+8<sup>th</sup> Dec. 2017 - From 1800 HRS to 1900 HRS.
+
+### Slides, notes and memos
+
+Find all slides, notes and memos [here][3].
+
+### Last meetup: Mess or Not?
+
+To create a much better experience for you next time, we ask that you take a few minutes off your busy schedule to give feedback; what bored you, what can we improve, and maybe, what you want to hear discussed next time.
+
+Please find the link to the form [here][4].
 
 * * *   
 
@@ -51,6 +71,8 @@ All DarJS meetups are organized with lots of love and coffee by [Barnie][@makosc
 
 [1]: https://www.google.co.tz/maps/place/Buni+Innovation+Hub/@-6.774619,39.2390723,17z/data=!3m1!4b1!4m5!3m4!1s0x185c4c26c97df195:0xa048ed7bf4363a72!8m2!3d-6.774619!4d39.241261?hl=en
 [2]: https://docs.google.com/forms/d/e/1FAIpQLScUX8euolF-cwpig7BNdzUwSVWEc0XYCKFqE_hRvOh3jniJFw/viewform
+[3]: https://docs.google.com/presentation/d/17qJsiFPWaeLk2nW4PC6wtf0qNDL0vM47NTArY9_Eos8/edit?usp=sharing
+[4]: https://goo.gl/forms/vt7O9sgOMEY32MXD3
 
 [codeofconduct]: http://jsconf.com/codeofconduct.html
 
