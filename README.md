@@ -6,14 +6,22 @@ based in Dar es Salaam, Tanzania.
 
 * * *  
 
-Next meetup: To be announced
----------------------------------------
+Next meetup: console.log('Tooling')
+-----------------------------------
+
+### Main theme
+
+Improving Developer Productivity with Tools.
+
+### Venue
+
+BUNI Space. See [location][buni-location].
 
 ### Date & time 
 
-12<sup>th</sup> Jan. 2018 - From 1800 HRS to 1900 HRS.
+12<sup>th</sup> Jan. 2018 - From 1800 HRS to 2000 HRS.
 
-<!--Please confirm your attendance [here][2].-->
+Please confirm your attendance [here][tooling-form].
 
 * * *   
 
@@ -30,7 +38,7 @@ Current State of JavaScript:
 
 ### Venue 
 
-BUNI Space. See [location][hello-darjs-location].
+BUNI Space. See [location][buni-location].
 
 ### Date & time
 
@@ -94,8 +102,10 @@ Hosts
 
 All DarJS meetups are organized with lots of love and coffee by [Barnie][@makoscafee], [Mtuchi][@mtuchi], [Joshy][@joshuamabina], and [Lupy][@lupyana].
 
+[tooling-form]: http://example.com
 
-[hello-darjs-location]: https://www.google.co.tz/maps/place/Buni+Innovation+Hub/@-6.774619,39.2390723,17z/data=!3m1!4b1!4m5!3m4!1s0x185c4c26c97df195:0xa048ed7bf4363a72!8m2!3d-6.774619!4d39.241261?hl=en
+
+[buni-location]: https://www.google.co.tz/maps/place/Buni+Innovation+Hub/@-6.774619,39.2390723,17z/data=!3m1!4b1!4m5!3m4!1s0x185c4c26c97df195:0xa048ed7bf4363a72!8m2!3d-6.774619!4d39.241261?hl=en
 
 [hello-darjs-notes]: https://docs.google.com/presentation/d/17qJsiFPWaeLk2nW4PC6wtf0qNDL0vM47NTArY9_Eos8/edit?usp=sharing
 [hello-darjs-feedback]: https://goo.gl/forms/vt7O9sgOMEY32MXD3
