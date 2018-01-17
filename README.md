@@ -21,7 +21,9 @@ BUNI Space. See [location][buni-location].
 
 12<sup>th</sup> Jan. 2018 - From 1800 HRS to 2000 HRS.
 
-Please confirm your attendance [here][tooling-form].
+### Slides, notes and memos
+
+Find all slides, notes and memos [here][tooling-notes].
 
 * * *   
 
@@ -103,6 +105,7 @@ Hosts
 All DarJS meetups are organized with lots of love and coffee by [Barnie][@makoscafee], [Mtuchi][@mtuchi], [Joshy][@joshuamabina], and [Lupy][@lupyana].
 
 [tooling-form]: https://darjs.typeform.com/to/YOyYUK
+[tooling-notes]: https://docs.google.com/presentation/d/1XhPxt8ZaNJLQ8UCWpShfo2q8qW5nipGHlVf4jAytcsE/edit?usp=sharing
 
 [buni-location]: https://www.google.co.tz/maps/place/Buni+Innovation+Hub/@-6.774619,39.2390723,17z/data=!3m1!4b1!4m5!3m4!1s0x185c4c26c97df195:0xa048ed7bf4363a72!8m2!3d-6.774619!4d39.241261?hl=en
 
