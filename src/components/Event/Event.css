@@ -1,0 +1,34 @@
+.Event {
+}
+
+.Event-Details {
+  padding-left: var(--spacingUnit);
+  padding-right: var(--spacingUnit);
+}
+
+.Event-Section {
+  padding-top: calc(var(--spacingUnit) * 1);
+}
+
+.Event-Content p {
+  margin-top: var(--spacingUnit);
+}
+
+@media (--phone) {
+  .Event {
+    --sidebarWidth: 40vw;
+    display: flex;
+  }
+
+  .Event-Details {
+    margin-left: var(--sidebarWidth);
+    max-width: calc(var(--spacingUnit) * 42);
+    padding-left: calc(var(--spacingUnit) * 2);
+    padding-right: calc(var(--spacingUnit) * 2);
+    width: 100%;
+  }
+
+  .Event-Section {
+    padding-top: calc(var(--spacingUnit) * 2);
+  }
+}

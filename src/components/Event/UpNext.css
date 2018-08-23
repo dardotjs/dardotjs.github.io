@@ -1,0 +1,9 @@
+@import '../../utils/typography.css';
+
+.Event-UpNextTitle {
+  @extend .gel--trafalgar;
+}
+
+.Event-UpNextContent {
+  margin-top: calc(var(--spacingUnit) * 2);
+}

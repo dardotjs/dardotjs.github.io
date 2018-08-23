@@ -1,0 +1,52 @@
+@import '../../utils/typography.css';
+
+.Segment-Header {
+  display: flex;
+}
+
+.Segment-Time {
+  @extend .gel--brevier;
+  font-weight: 600;
+  margin-right: 1ch;
+  text-transform: uppercase;
+}
+
+.Segment-Title {
+  &[data-has-speakers='true'] {
+    font-style: italic;
+  }
+}
+
+.Segment-Type {
+  @extend .gel--minion;
+  font-style: italic;
+  /* Compensate for perceived baseline mis-alignment */
+  margin-bottom: -1px;
+  padding-top: 1px;
+}
+
+.Segment-Info {
+  border-left: dotted 1px #ddd;
+  margin-bottom: var(--spacingUnit);
+  margin-left: var(--spacingUnit);
+  margin-top: var(--spacingUnit);
+  padding-bottom: var(--spacingUnit);
+  padding-left: var(--spacingUnit);
+  padding-top: var(--spacingUnit);
+}
+
+.Segment-Description {
+  @extend .gel--longPrimer;
+  margin-top: var(--spacingUnit);
+  &:empty {
+    display: none;
+  }
+  & > p {
+    margin-top: var(--spacingUnit);
+  }
+  & > ul {
+    list-style: inside;
+    list-style-type: disc;
+    margin-top: var(--spacingUnit);
+  }
+}

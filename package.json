@@ -1,0 +1,70 @@
+{
+  "name": "sacjs",
+  "description": "SacJS - Sacramento's Javascript Meetup Group",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "NODE_ENV=production gatsby build",
+    "develop": "gatsby develop",
+    "lint": "npm-run-all --parallel lint:*",
+    "lint:js": "prettier-eslint --write \"./*.js\" \"./src/**/*.js\" && eslint --ignore-path .gitignore --fix .",
+    "meetup:sync": "node dev/meetup_sync.js",
+    "pretest": "npm run lint",
+    "serve": "gatsby serve"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/sacjs/website/issues"
+  },
+  "license": "BSD-2-Clause",
+  "author": "Derek Lindahl",
+  "contributors": [
+    "Derek Lindahl",
+    "Sam Thompson",
+    "Andy Axton"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sacjs/website.git"
+  },
+  "homepage": "https://www.sacjs.com",
+  "dependencies": {
+    "dateformat": "^3.0.2",
+    "fetch-jsonp": "^1.1.3",
+    "gatsby": "^1.9.51",
+    "gatsby-link": "^1.6.19",
+    "gatsby-plugin-google-analytics": "^1.0.8",
+    "gatsby-plugin-manifest": "^1.0.8",
+    "gatsby-plugin-netlify": "^1.0.8",
+    "gatsby-plugin-offline": "^1.0.9",
+    "gatsby-plugin-react-a11y": "^1.0.0",
+    "gatsby-plugin-react-helmet": "^1.0.6",
+    "gatsby-source-filesystem": "^1.5.2",
+    "gatsby-transformer-remark": "^1.7.15",
+    "lodash.get": "^4.4.2",
+    "lodash.padstart": "^4.6.1",
+    "lodash.partialright": "^4.2.1",
+    "node-fetch": "^1.7.3",
+    "react-markdown": "^3.3.0",
+    "string-strip-html": "^1.3.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "babel-preset-env": "^1.6.0",
+    "empty": "^0.10.1",
+    "eslint": "^4.8.0",
+    "eslint-config-react-app": "^2.0.1",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-flowtype": "^2.37.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-node": "^5.2.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-react": "^7.4.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "gatsby-plugin-sitemap": "^1.2.7",
+    "npm-run-all": "^4.1.1",
+    "postcss-extend": "^1.0.5",
+    "prettier-eslint-cli": "^4.4.0"
+  }
+}

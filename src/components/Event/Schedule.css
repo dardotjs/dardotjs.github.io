@@ -1,0 +1,11 @@
+@import '../../utils/typography.css';
+
+.Event-ScheduleTitle {
+  @extend .gel--trafalgar;
+}
+
+.Event-ScheduleList {
+  list-style-type: none;
+  margin-left: 0;
+  margin-top: var(--spacingUnit);
+}

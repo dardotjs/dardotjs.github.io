@@ -1,0 +1,31 @@
+@import '../../utils/typography.css';
+
+.RsvpButton {
+  text-align: center;
+}
+
+.RsvpButton-Link {
+  display: block;
+  font-weight: bold;
+  outline: solid 3px var(--linkColor);
+  padding-bottom: var(--spacingUnit);
+  padding-left: calc(var(--spacingUnit) * 2);
+  padding-right: calc(var(--spacingUnit) * 2);
+  padding-top: var(--spacingUnit);
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.RsvpButton-LinkPromo {
+  color: var(--textColorSubdued);
+  text-align: center;
+}
+
+.RsvpButton-LinkPromoText {
+  @extend .gel--doublePica;
+}
+
+.RsvpButton-Thanks {
+  background: var(--primaryColorLight);
+  padding: calc(var(--spacingUnit));
+}
