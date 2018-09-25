@@ -1,121 +1,39 @@
 DarJS
 =====
 
-A Support Group for JavaScript Developers  
-based in Dar es Salaam, Tanzania.
+Meet DarJS
+----------
 
-* * *  
+DarJS is a community of software developers and technology enthusiasts who share the same general idea about how software should be built, and are eager to share the same ideas and passion with the world.
 
-Next meetup: console.log('Tooling')
------------------------------------
+When & where?
+-------------
 
-### Main theme
+We meet every second Friday of the month to talk about the three sides of JavaScript: Good, Bad and Ugly.
 
-Improving Developer Productivity with Tools.
+Check out our [past meetup events][past-events].
 
-### Venue
+[past-events]: https://www.meetup.com/dar-js/events/past/
 
-BUNI Space. See [location][buni-location].
+For updates about upcoming events, you can find us on [Twitter][twitter], [Meetup][meetup], [Slack][slack], [GitHub][github], and [Medium][medium].
 
-### Date & time 
+[twitter]: https://twitter.com/dardotjs
+[meetup]: https://meetup.com/dar-js
+[github]: https://github.com/darjs
+[medium]: https:/medium.com/@dardotjs
+[slack]: https://darjs.slack.com
 
-12<sup>th</sup> Jan. 2018 - From 1800 HRS to 2000 HRS.
-
-### Slides, notes and memos
-
-Find all slides, notes and memos [here][tooling-notes].
-
-* * *   
-
-Last meetup: console.log('Hello DarJS')
----------------------------------------
-
-### Main theme
-
-Current State of JavaScript:
-
-- The history of JavaScript
-- How we got here
-- The fast changing requirements
-
-### Venue 
-
-BUNI Space. See [location][buni-location].
-
-### Date & time
-
-8<sup>th</sup> Dec. 2017 - From 1800 HRS to 1900 HRS.
-
-### Slides, notes and memos
-
-Find all slides, notes and memos [here][hello-darjs-notes].
-
-### Last meetup: Mess or Not?
-
-To create a much better experience for you next time, we ask that you take a few minutes off your busy schedule to give feedback; what bored you, what can we improve, and maybe, what you want to hear discussed next time.
-
-Please find the link to the form [here][hello-darjs-feedback].
-
-* * *   
-
-About
+Also
 -----
 
-Every second friday of the month, JavaScript developers in Dar es Salaam meetup for 1 hour to talk about the three sides of JavaScript: Good, Bad and Ugly.
+Contributing is easy. Please read the [contributing guide][contributing-guide].
 
-Joining DarJS is easy - just complete this [joining form][join-darjs] and we will reach out to you. 
+All DarJSers are required to follow the [JSConf code of conduct][codeofconduct].
 
-Running locally
----
-
-### Requirements
-
-- Ruby 2.1.0 or higher
-- Bundler
-- Jekyll
-
-### Running
-
-Clone the repository 
-
-```
-git clone git@github.com:darjs/darjs.github.io.git
-```
-
-Install all dependencies
-
-```
-bundle install
-```
-
-Serve static pages locally
-
-```
-bundle exec jekyll serve
-```
-
-Code of Conduct
----
-
-All DarJSers are required to follow the [JSConf Code of Conduct][codeofconduct].
-
-Hosts
------
-
-All DarJS meetups are organized with lots of love and coffee by [Barnie][@makoscafee], [Mtuchi][@mtuchi], [Joshy][@joshuamabina], and [Lupy][@lupyana].
-
-[tooling-form]: https://darjs.typeform.com/to/YOyYUK
-[tooling-notes]: https://docs.google.com/presentation/d/1XhPxt8ZaNJLQ8UCWpShfo2q8qW5nipGHlVf4jAytcsE/edit?usp=sharing
-
-[buni-location]: https://www.google.co.tz/maps/place/Buni+Innovation+Hub/@-6.774619,39.2390723,17z/data=!3m1!4b1!4m5!3m4!1s0x185c4c26c97df195:0xa048ed7bf4363a72!8m2!3d-6.774619!4d39.241261?hl=en
-
-[hello-darjs-notes]: https://docs.google.com/presentation/d/17qJsiFPWaeLk2nW4PC6wtf0qNDL0vM47NTArY9_Eos8/edit?usp=sharing
-[hello-darjs-feedback]: https://goo.gl/forms/vt7O9sgOMEY32MXD3
-
-[join-darjs]: https://goo.gl/forms/wBH4Rf9AC1dNKWEF3
+[contributing-guide]: https://github.com/darjs/darjs.github.io/blob/master/CONTRIBUTING.md
 [codeofconduct]: http://jsconf.com/codeofconduct.html
 
-[@mtuchi]:       https://github.com/mtuchi
-[@lupyana]:      https://github.com/lupyana
-[@makoscafee]:   https://github.com/MAKOSCAFEE
+Organized with lots of love and coffee by [Joshy][@joshuamabina] and [Mtuchi][@mtuchidev].
+
+[@mtuchidev]:       https://github.com/mtuchi
 [@joshuamabina]: https://github.com/joshuamabina
