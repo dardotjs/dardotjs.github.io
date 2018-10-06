@@ -1,7 +1,7 @@
 ---
-title: Sponsoring SacJS
+title: Sponsoring DarJS
 description: >
-  Support Sacramento's tech community by sponsoring a future meetup.
+  Support DarJS tech community by sponsoring a future meetup.
 ---
 
 # Sponsoring {{ site.title }}
@@ -12,7 +12,7 @@ description: >
 
 {{ site.title }} is dedicated to providing the Sacramento Javascript community a place to learn, socialize, and talk shop.
 
-While generally focused on Javascript and the Javascript community, we also cover web technology of all types. We've had meetups on everything from the ["Internet of Things"](http://www.meetup.com/The-Sacramento-Javascript-Meetup/events/219997765/), [Virtual Reality](http://www.meetup.com/The-Sacramento-Javascript-Meetup/events/223024074/), and the [dance community](http://www.meetup.com/The-Sacramento-Javascript-Meetup/events/220619734/).
+While generally focused on Javascript and the Javascript community, we also cover web technology of all types. We've had meetups on everything from the ["Internet of Things"](http://www.meetup.com/dar-js/events/219997765/), [Virtual Reality](http://www.meetup.com/dar-js/events/223024074/), and the [dance community](http://www.meetup.com/dar-js/events/220619734/).
 
 Our meetup is co-organized by {% include organizers.md %} and meets on the fourth Tuesday of every month at [{{ organization.location.name }}]({{ organization.location.url }})
 

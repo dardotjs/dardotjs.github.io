@@ -1,5 +1,5 @@
 ---
-title: Speaking at SacJS
+title: Speaking at DarJS
 description: >
   We cannot have a meetup with speakers. Got something in tech that you are passionate about? We want to hear your story!
 ---
