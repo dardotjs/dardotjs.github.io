@@ -1,22 +1,19 @@
 const socialMedia = {
   email: {
-    address: 'derek@jsconf.us'
+    address: 'dardotjs@gmail.com'
   },
   github: {
-    username: 'sacjs'
+    username: 'darjs'
   },
   meetup: {
-    groupName: 'The-Sacramento-Javascript-Meetup',
+    groupName: 'dar-js',
     groupText: 'Join us!'
   },
   slack: {
-    url: 'https://sac-tech.herokuapp.com'
+    url: ''
   },
   twitter: {
-    username: 'sac_js'
-  },
-  youTube: {
-    url: 'https://bit.ly/sacjs-yt'
+    username: 'dardotjs'
   }
 }
 
