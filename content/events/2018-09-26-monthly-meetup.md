@@ -1,17 +1,14 @@
 ---
-title: It's Gonna be a May Meetup
-date: 2017-05-23 19:00
+date: 2018-09-26 05:00
+title: Monthly Meetup
 feature: false
 meetup:
-  id: 237210904
+  id: 247295951
 schedule:
   - duration: 15
     offset: -15
     type: social
     title: Doors Open
-    sponsors:
-      - name: TekSystems
-        url: http://www.teksystems.com/
     description: >
       Come early to grab a seat, a refreshment, and some food
 
@@ -22,17 +19,29 @@ schedule:
       - name: The Urban Hive
         url: http://www.theurbanhive.com/
 
-  - duration: 45
+  - duration: 20
     type: speaker
     speakers:
-      - name: Erik Bryn
-        url: https://twitter.com/ebryn
-    title: 'Glimmer.js: the past, present, and future of Ember.js'
+      - name: Be Our First Speaker
+        url: /speaking/
+    title:
     description: >
-      The newly released Glimmer.js library shows off Ember's rendering engine
-      and makes it accessible to the broader web ecosystem. Erik will provide a
-      little bit of history and discuss how Glimmer.js will shape the future of
-      Ember.
+
+  - duration: 20
+    type: speaker
+    speakers:
+      - name: Be Our Second Speaker
+        url: /speaking/
+    title:
+    description: >
+
+  - duration: 20
+    type: speaker
+    speakers:
+      - name: Be Our Third Speaker
+        url: /speaking/
+    title:
+    description: >
 
   - duration: 5
     type: mc

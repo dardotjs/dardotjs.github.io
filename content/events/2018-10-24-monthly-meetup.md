@@ -1,9 +1,9 @@
 ---
-date: 2016-09-27 19:00
+date: 2018-10-24 05:00
+title: Monthly Meetup
 feature: false
 meetup:
-  id: 233548650
-title:
+  id: 247295952
 schedule:
   - duration: 15
     offset: -15
@@ -19,14 +19,29 @@ schedule:
       - name: The Urban Hive
         url: http://www.theurbanhive.com/
 
-  - duration: 30
+  - duration: 20
     type: speaker
     speakers:
-      - name: Thomas Wolfe
-        url: https://twitter.com/tewolfe2
-    title: Using React Native
+      - name: Be Our First Speaker
+        url: /speaking/
+    title:
     description: >
-      An overview of Facebook's Javascript-based iOS and Android development framework, React Native.
+
+  - duration: 20
+    type: speaker
+    speakers:
+      - name: Be Our Second Speaker
+        url: /speaking/
+    title:
+    description: >
+
+  - duration: 20
+    type: speaker
+    speakers:
+      - name: Be Our Third Speaker
+        url: /speaking/
+    title:
+    description: >
 
   - duration: 5
     type: mc

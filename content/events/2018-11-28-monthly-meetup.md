@@ -1,9 +1,9 @@
 ---
-date: 2017-11-21 19:00
-title: "turkey(duck(chicken)): A Functional Thanksgiving with Chatbots"
+date: 2018-11-28 06:00
+title: Monthly Meetup
 feature: false
 meetup:
-  id: 237210922
+  id: 247295958
 schedule:
   - duration: 15
     offset: -15
@@ -19,23 +19,29 @@ schedule:
       - name: The Urban Hive
         url: http://www.theurbanhive.com/
 
-  - duration: 25
+  - duration: 20
     type: speaker
     speakers:
-      - name: Billy Le
-        url: https://twitter.com/xgeewhiz
-    title: Brief Intro to Functional React Programming
+      - name: Be Our First Speaker
+        url: /speaking/
+    title:
     description: >
-      An introduction to basic functional programming paradigms, stateless Components, Stateless Functional Components, Functional Components, and using functional programming utility libraries.
 
   - duration: 20
     type: speaker
     speakers:
-      - name: David Novicki
-        url: https://twitter.com/novicki_david
-    title: "\"Work it\" featuring Service Workers"
+      - name: Be Our Second Speaker
+        url: /speaking/
+    title:
     description: >
-      David will help you gain understanding of Service Workers and give some cool examples on how to use them. Unfortunately Missy Elliot could not make it.
+
+  - duration: 20
+    type: speaker
+    speakers:
+      - name: Be Our Third Speaker
+        url: /speaking/
+    title:
+    description: >
 
   - duration: 5
     type: mc
@@ -54,5 +60,3 @@ schedule:
       hanging out afterwards and socializing with our other attendees. We'll
       keep it going until we get kicked out!
 ---
-
-Prepare yourself for Thanksgiving by gorging yourself on some Javascript knowledge.
