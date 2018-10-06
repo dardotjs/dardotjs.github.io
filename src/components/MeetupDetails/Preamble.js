@@ -2,7 +2,7 @@ import dateFormat from 'dateformat'
 import { formatAddress, ordinalize } from '../../utils/string'
 
 export default function preamble (date, location, typeCounter) {
-  return `SacJS will be hosting our ${ordinalize(
+  return `DarJS will be hosting our ${ordinalize(
     typeCounter
   )} meetup on ${dateFormat(
     date,

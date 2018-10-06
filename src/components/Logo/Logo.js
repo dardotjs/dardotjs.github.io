@@ -1,7 +1,7 @@
-import LogoPng from '../../../static/img/sac_js@1x.png'
-import LogoRetinaPng from '../../../static/img/sac_js@2x.png'
-import LogoRetinaWebP from '../../../static/img/sac_js@2x.webp'
-import LogoWebP from '../../../static/img/sac_js@1x.webp'
+import LogoPng from '../../../static/img/darjs@1x.png'
+import LogoRetinaPng from '../../../static/img/darjs@2x.png'
+import LogoRetinaWebP from '../../../static/img/darjs@2x.webp'
+import LogoWebP from '../../../static/img/darjs@1x.webp'
 import React from 'react'
 import { string } from 'prop-types'
 

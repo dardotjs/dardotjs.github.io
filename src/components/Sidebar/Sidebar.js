@@ -12,8 +12,9 @@ const Sidebar = ({ className, meetup }, { organization: { location } }) => (
     </header>
     <section className="Sidebar-Details">
       <p>
-        Javascript, web technologies, and community building on the fourth
-        Tuesday of every month at <a href={location.url}>{location.name}</a>.
+        A Support Group for JavaScript Developers based in Dar es Salaam, Tanzania.
+        On the second Friday of every month
+        {/* <a href={location.url}>{location.name}</a>. */}
       </p>
     </section>
     <section className="Sidebar-RSVP">

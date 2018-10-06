@@ -19,7 +19,7 @@ const WhatElse = (props, { socialMedia }) => (
       Find us on{' '}
       <a href={`https://twitter.com/${socialMedia.twitter.username}`}>
         Twitter
-      </a>, <a href={socialMedia.youTube.url}>YouTube</a>,{' '}
+      </a>,
       <a href={socialMedia.slack.url}>Slack</a>, and help us{' '}
       <a
         href={`https://github.com/${socialMedia.github.username}/${socialMedia

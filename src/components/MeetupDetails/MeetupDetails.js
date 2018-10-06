@@ -13,7 +13,7 @@ ${intro(children, date)}
 
 ${speakerList(schedule)}
 
-SacJS expects all speakers and attendees to follow our Code of Conduct (http://sacjs.com/code-of-conduct/).
+DarJS expects all speakers and attendees to follow our Code of Conduct (http://sacjs.com/code-of-conduct/).
 
 Food and liquid refreshments will be provided by our sponsors.
 

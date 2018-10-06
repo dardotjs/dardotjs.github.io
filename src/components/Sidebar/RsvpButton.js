@@ -52,7 +52,7 @@ export default class RsvpButton extends React.Component {
       content = (
         <a
           className="RsvpButton-Link"
-          href={`http://www.meetup.com/The-Sacramento-Javascript-Meetup/events/${this
+          href={`http://www.meetup.com/dar-js/events/${this
             .props.meetupId}`}
         >
           <div className="RsvpButton-LinkPromo">
