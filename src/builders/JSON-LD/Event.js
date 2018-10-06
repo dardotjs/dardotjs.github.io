@@ -42,7 +42,7 @@ export default function EventBuilder ({
         name: 'General Admission',
         price: '0.00',
         qty: 100,
-        url: `http://www.meetup.com/The-Sacramento-Javascript-Meetup/events/${meetup.id}`
+        url: `http://www.meetup.com/dar-js/events/${meetup.id}`
       })
     })
   }

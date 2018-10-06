@@ -55,7 +55,7 @@ export function eventLDFromContent (event, organization, site) {
     image: organization.logo.url,
     location,
     meetup,
-    name: `SacJS: ${event.title}`,
+    name: `DarJS: ${event.title}`,
     performers,
     startDate: date,
     url: slug

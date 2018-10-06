@@ -5,17 +5,17 @@
 
   --spacingUnit: calc(var(--fontSize) * var(--lineHeight));
 
-  --primaryColor: #b51737;
+  --primaryColor: #151515;
   --secondaryColor: #f5db3a;
-  --tertiaryColor: #514028;
+  --tertiaryColor: #48C072;
   --quarternaryColor: #fff9c2;
   --quinaryColor: #99b582;
   --senaryColor: #fefefe;
 
-  --primaryColorDark: #950622;
-  --primaryColorDarker: #6f0016;
-  --primaryColorLight: #d03856;
-  --primaryColorLighter: #e8617c;
+  --primaryColorDark: #0c0c0c;
+  --primaryColorDarker: #020202;
+  --primaryColorLight: #2c2c2c;
+  --primaryColorLighter: #5b5b5b;
 
   --tertiaryColorDark: #423017;
   --tertiaryColorDarker: #2e1e08;
@@ -29,7 +29,11 @@
   --linkColorVisited: var(--quinaryColor);
   --selectionColorBackground: var(--primaryColorLight);
   --selectionColor: var(--quarternaryColor);
-  --textColor: var(--tertiaryColor);
+  /*
+  * text color needs to follow tertiary-color
+  * Homework on tertiary-color
+  * --textColor: var(--tertiaryColor); */
+  --textColor: var(--primaryColorDarker);
   --verticalRhythmGridColor: #bbb;
 }
 
