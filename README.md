@@ -1,4 +1,4 @@
-# DarJS | Landing page
+# DarJS | Main Landing page 
 
 ### Dev Requirements
 
