@@ -1,4 +1,4 @@
-import { NextSeo } from "next-seo";
+// import { NextSeo } from "next-seo";
 import Head from "next/head";
 import { Config } from "../utils/Config";
 
@@ -18,7 +18,7 @@ const Meta = (props: IMetaProps) => (
         key="viewport"
       />
     </Head>
-    <NextSeo
+    {/* <NextSeo
       title={props.title}
       description={props.description}
       canonical={props.canonical}
@@ -29,7 +29,7 @@ const Meta = (props: IMetaProps) => (
         locale: Config.locale,
         site_name: Config.site_name,
       }}
-    />
+    /> */}
   </>
 );
 

@@ -1,12 +1,12 @@
-import { Button } from '../src/button/Button';
-import { Meta } from '../src/layout/Meta';
-import { Footer } from '../src/templates/Footer';
-import { HeroMin } from '../src/templates/HeroMin';
-import { Config } from '../src/utils/Config';
+import { Button } from '@/components/button/Button';
+// import { Meta } from '@/components/layout/Meta';
+import { Footer } from '@/components/templates/Footer';
+import { HeroMin } from '@/components/templates/HeroMin';
+// import { Config } from '@/components/utils/Config';
 
 const Contact = () => (
   <div className="antialiased text-gray-600">
-    <Meta title={Config.title} description={Config.description} />
+    {/* <Meta title={Config.title} description={Config.description} /> */}
     <HeroMin />
     <main className="mb-12">
 

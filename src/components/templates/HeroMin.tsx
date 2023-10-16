@@ -11,18 +11,18 @@ const HeroMin = () => (
       <NavbarTwoColumns logo={<Logo xl color="text-gray-800" />}>
         <li>
           <Link href="/meetups">
-            <a>Meetups</a>
+            <>Meetups</>
           </Link>
         </li>
 
         <li>
           <Link href="/about">
-            <a>About</a>
+            <>About</>
           </Link>
         </li>
         <li>
           <Link href="https://github.com/darjs">
-            <a>GitHub</a>
+            <>GitHub</>
           </Link>
         </li>
       </NavbarTwoColumns>
