@@ -10,7 +10,7 @@ const Banner = () => (
       title={<>DarJS is dedicated to providing the Javascript community a place to learn, socialize, and talk.</>}
       subtitle={"We are a group of developers who are passionate about JavaScript and the tech industry."}
       button={(
-        <Link href="/meetup">
+        <Link href="/meetups">
           <>
             <Button primary md>Join Next Meetup</Button>
           </>
