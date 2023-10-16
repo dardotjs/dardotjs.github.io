@@ -1,5 +1,3 @@
-
-
 import Link from 'next/link';
 
 import { Button } from '../button/Button';
@@ -13,9 +11,9 @@ const Banner = () => (
       subtitle={"We are a group of developers who are passionate about JavaScript and the tech industry."}
       button={(
         <Link href="/meetup">
-          <a>
+          <>
             <Button primary md>Join Next Meetup</Button>
-          </a>
+          </>
         </Link>
       )}
     />

@@ -13,19 +13,19 @@ const Hero = () => (
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
           <Link href="/meetups">
-            <a>Meetups</a>
+            <>Meetups</>
           </Link>
         </li>
 
         <li>
           <Link href="/about">
-            <a>About</a>
+            <>About</>
           </Link>
         </li>
 
         <li>
           <Link href="https://github.com/darjs">
-            <a>GitHub</a>
+            <>GitHub</>
           </Link>
         </li>
       </NavbarTwoColumns>
@@ -42,11 +42,11 @@ const Hero = () => (
         // description="Inspiring Tech Needs for Business."
         button={
           <Link href="#solutions">
-            <a>
+            <>
               <Button xl primary>
                 Learn More
               </Button>
-            </a>
+            </>
           </Link>
         }
       />
